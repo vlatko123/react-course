@@ -1,4 +1,4 @@
-// eslint-disable-next-line react/prop-types
+
 export const CoreConcepts = ({ image, title, description }) => {
 
     return (
